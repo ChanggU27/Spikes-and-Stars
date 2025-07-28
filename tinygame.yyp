@@ -195,6 +195,7 @@
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"sBackGround","path":"sprites/sBackGround/sBackGround.yy",},},
+    {"id":{"name":"sFire","path":"sprites/sFire/sFire.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sSolid","path":"sprites/sSolid/sSolid.yy",},},
     {"id":{"name":"sSpike","path":"sprites/sSpike/sSpike.yy",},},
